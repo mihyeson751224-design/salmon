@@ -1,0 +1,5 @@
+name: SalmonRecipes
+version: '${version}'
+main: kr.salmonrecipes.SalmonRecipes
+api-version: '26.2'
+description: 커스텀 조합법 (플레이어 머리, 다이아 광석, 무거운 코어)

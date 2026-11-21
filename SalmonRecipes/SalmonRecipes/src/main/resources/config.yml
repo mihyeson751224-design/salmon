@@ -1,0 +1,8 @@
+# 첫 번째 조합법 결과: 내 머리
+my-head-owner: salmon4492
+# 두 번째 조합법 결과: 친구 머리
+friend-head-owner: xxthemadxx
+# 네 번째 조합법(무거운 코어) 가운데 재료. 예: SUGAR, BONE_MEAL
+heavy-core-center: SUGAR
+# 이 조합법을 사용할 수 있는 유일한 플레이어 (닉네임)
+allowed-player: salmon4492
